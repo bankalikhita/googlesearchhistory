@@ -1,0 +1,40 @@
+.listitemmain {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  width: 180vh;
+}
+.listitem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+}
+.imagepara {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: left;
+}
+.button {
+  background-color: white;
+  border-style: none;
+}
+.dark {
+  color: black;
+}
+.light {
+  color: #64748b;
+}
+.para {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+}
